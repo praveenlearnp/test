@@ -1,2 +1,1 @@
-print("i'm hungry")
-print("are you hungry")
+print("i'm here to learn Python3")
